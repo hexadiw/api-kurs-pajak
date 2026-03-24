@@ -1,0 +1,23 @@
+# Python bytecode (file cache yang otomatis dibuat Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (folder venv lokal kamu, jangan diupload!)
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables (jika nanti kamu pakai file .env untuk API Key)
+.env
+
+# Folder IDE (VS Code)
+.vscode/
+
+# MacOS specific files
+.DS_Store
